@@ -4,7 +4,6 @@ Customer Care Registry
 Team Leader
 Dhanapal
 
-Team Member
-1.Bregit Raj
-2.Dhanavel
-3.Deva
+Team Member 1-Bregit Raj
+Team Member 2-Dhanavel
+Team Member 3-Deva
